@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,SQL_Marks,Maths_Marks,Attendance_Percentage,CGPA
+STU001,Aditi Sharma,CSE,85,78,90,92,8.43
+STU002,Rohan Verma,CSE,72,68,75,80,7.17
+STU003,Priya Patel,IT,45,38,52,70,4.5
+STU004,Arjun Singh,CSE,92,88,95,96,9.17
+STU005,Neha Jain,IT,30,55,42,65,4.23
+STU006,Kavya Joshi,AIML,88,84,76,91,8.27
+STU007,Rahul Gupta,CSE,67,73,69,85,6.97
+STU008,Sneha Mehta,IT,91,86,89,94,8.87
+STU009,Vivek Mishra,AIML,54,61,58,72,5.77
+STU010,Ananya Rao,CSE,79,82,87,89,8.27
+STU011,Karan Malhotra,IT,34,29,48,60,3.7
+STU012,Ishita Kulkarni,AIML,95,93,91,98,9.3
+STU013,Manav Agarwal,CSE,62,57,65,77,6.13
+STU014,Pooja Soni,IT,76,71,80,88,7.57
+STU015,Aditya Choudhary,AIML,41,44,39,68,4.13
+STU016,Meera Iyer,CSE,83,90,85,95,8.6
+STU017,Sahil Khan,IT,58,47,63,74,5.6
+STU018,Diya Bansal,AIML,87,79,92,90,8.6
+STU019,Yash Thakur,CSE,28,36,31,55,3.17
+STU020,Tanya Desai,IT,74,81,77,86,7.73
